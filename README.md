@@ -1,6 +1,6 @@
 <img align='right' src='https://avatars.githubusercontent.com/u/29834996' width='200"'>
 
-<h1🖖 Hi there!</h1> 
+<h1>🖖 Hi there!</h1> 
 
 My name is <strong>Florin</strong> I'm a software developer, lifelong learner, passionate about technology, sport and photography. Skilled in Java, C#, Linux, and Networking. Strong engineering professional with a Bachelor's degree focused in Mathematics and Computer Science.
 
