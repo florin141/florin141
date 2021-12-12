@@ -7,6 +7,7 @@ My name is <strong>Florin</strong> I'm a software developer, lifelong learner, p
 <h2>⚡ Technologies</h2>
 <ul>
   <li>C#</li>
+  <li>Java</li>
   <li>ASP.NET WebAPI</li>
   <li>ASP.NET WCF</li>
   <li>Entity Framework 6</li>
@@ -15,6 +16,7 @@ My name is <strong>Florin</strong> I'm a software developer, lifelong learner, p
   <li>Azure Event Hubs</li>
   <li>RabbitMQ</li>
   <li>Angular</li>
+  <li>Android</li>
   <li>HTML5, CSS3, TypeScript </li>
 </ul>
 
